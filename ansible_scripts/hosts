@@ -1,0 +1,4 @@
+[cassandras]
+172.16.12.209 ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant 
+172.16.12.149 ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant 
+
